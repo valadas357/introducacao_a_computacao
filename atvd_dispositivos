@@ -1,0 +1,10 @@
+
+Celular: (E/S) pode receber e enviar arquivos
+Fone: (S) é saída de som, no caso arquivos em MP.3
+Carregador: (E) faz a entrada de energia nos dispositivos
+Computador: (E/S) pode receber e enviar arquivos
+Mouse: (E) utiliza de sensores para enviar posicionamento ao cursor
+
+O computador funcionaria internamente, mas não daria para ver, nem ouvir nada, e nem saber o resultado das ações.
+
+Porque permitem enviar e receber dados entre sistemas. Sem eles, não daria para ter troca de informações, nem comunicação entre dispositivos.
